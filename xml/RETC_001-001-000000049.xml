@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+      <comprobanteRetencion id="comprobante" version="1.0.0">
+      <infoTributaria>
+         <ambiente>1</ambiente>
+         <tipoEmision>1</tipoEmision>
+         <razonSocial>GODDCORP S.A.</razonSocial>
+         <nombreComercial>GODDCORP S.A.</nombreComercial>
+         <ruc>0992637005001</ruc>
+         <claveAcceso>1609201907099263700500110010010000001230000012311</claveAcceso>
+         <codDoc>07</codDoc>
+         <estab>001</estab>
+         <ptoEmi>001</ptoEmi>
+         <secuencial>000000123</secuencial>
+         <dirMatriz>KM.1.5 VIA A SAMBORONDON EDIF. XIMA</dirMatriz>
+      </infoTributaria>
+      <infoCompRetencion>
+         <fechaEmision>16/09/2019</fechaEmision>
+         <dirEstablecimiento>KM.1.5 VIA A SAMBORONDON EDIF. XIMA</dirEstablecimiento>
+         <obligadoContabilidad>SI</obligadoContabilidad>
+         <tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+         <razonSocialSujetoRetenido>CONECEL S.A.</razonSocialSujetoRetenido>
+         <identificacionSujetoRetenido>1791251237001</identificacionSujetoRetenido>
+         <periodoFiscal>09/2019</periodoFiscal>
+      </infoCompRetencion>
+      <impuestos>
+         <impuesto>
+            <codigo>1</codigo>
+            <codigoRetencion>312</codigoRetencion>
+            <baseImponible>20.36</baseImponible>
+            <porcentajeRetener>1.00</porcentajeRetener>
+            <valorRetenido>0.20</valorRetenido>
+            <codDocSustento>01</codDocSustento>
+            <numDocSustento>001079000229894</numDocSustento>
+            <fechaEmisionDocSustento>16/09/2019</fechaEmisionDocSustento>
+         </impuesto>
+         <impuesto>
+            <codigo>2</codigo>
+            <codigoRetencion>8</codigoRetencion>
+            <baseImponible>2.44</baseImponible>
+            <porcentajeRetener>0.00</porcentajeRetener>
+            <valorRetenido>0.00</valorRetenido>
+            <codDocSustento>01</codDocSustento>
+            <numDocSustento>001079000229894</numDocSustento>
+            <fechaEmisionDocSustento>16/09/2019</fechaEmisionDocSustento>
+         </impuesto>
+      </impuestos>
+         <infoAdicional>
+            <campoAdicional nombre="Direccion">KENNEDY NORTE AV. FCO ORELLANADA ED. CENTRUM</campoAdicional>
+         </infoAdicional>
+   </comprobanteRetencion>

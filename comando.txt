@@ -1,0 +1,7 @@
+ openssl pkcs12 -in 0992637005001.p12 -out key.pem -nodes -password pass:cc19540AB
+
+
+
+ cc19540AB goddcorp
+
+ Orodelti2018 orodelti
